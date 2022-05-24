@@ -1,0 +1,2 @@
+class TodoKishan < ApplicationRecord
+end
